@@ -16,8 +16,7 @@ In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (22H2) PC
-- Windows 10 (xxx2) VM
+- Windows 10 (22H2)
 
 <h2>High-Level Steps</h2>
 
