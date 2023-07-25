@@ -4,7 +4,7 @@
 
 <h1>Virtual Private Network (VPN) Setup and Usage</h1>
 In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP addresses from a personal PC to inside the VM. 
-<h2>Video Demonstration</h2> 
+<h2>What is a VPN ? </h2> 
 
 - ### [VPN (Virtual Private Network) Explained](https://youtu.be/R-JUOpCgTZc)
 
@@ -26,7 +26,7 @@ In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP 
 
 <h2>Actions and Observations</h2>
 
-_⚠️Before we start, if you haven't already, go ahead and create **Microsoft Azure and Proton VPN** account on your physical PC._
+_⚠️Before we start, if you haven't already, go ahead and create a **Microsoft Azure and Proton VPN** account on your physical PC._
 #
 
 
