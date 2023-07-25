@@ -41,9 +41,13 @@ Locate **Remote Desktop** on your PC. We will use this to remote into our VM tha
 _Now the fun begins! Its great that you made it into the VM._
 
 
-2️⃣Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login . Once logged in we are going to download the VPN Client for our operating system in use and begin the installation process and login.
+2️⃣Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login . 
 <p align="center"> <img src="VPN Clients.jpg"/> </p>
-<p>
+
+
+Once logged in we are going to download the VPN Client for our operating system in use and begin the installation process and login.
+<p> <p align="center"> <img src="Install Proton VPN.png"/> </p>
+
 
 _Almost there._
 
@@ -62,10 +66,7 @@ If you were following along, you saw that we started in the United States, launc
 
 
 
-
-
-<p align="center"> <img src="VPN Clients.jpg"/> </p>
-<p>
+  
 New sentence here. Duhhhh...
 </p>
 <br />
@@ -73,15 +74,5 @@ New sentence here. Duhhhh...
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-New Sentence here. Duhhhhh...
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-New Sentence here. Duhhhhh...
-</p>
 <br />
