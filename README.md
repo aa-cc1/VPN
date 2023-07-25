@@ -36,26 +36,26 @@ Locate **Remote Desktop** on your PC. We will use this to remote into our VM tha
 _Now the fun begins! Its great that you made it into the VM._
 
 
-2️⃣
+2️⃣ 
 Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login . Once logged in we are going to download the VPN Client for our operating system in use and begin the installation process and login.
 
 
 _Almost there._
 
 
-3️⃣
+3️⃣ 
 In the same browser, go to https://whatismyipaddress.com/ and observe your new IP address. What is the country/region?
 
 
 _The good stuff._
 
 
-4️⃣
+4️⃣ 
 Go back to your Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to https://whatismyipaddress.com/ and observe the IP address. Where are you now? 
 
 
 Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN. 
-If you were following along, you saw that we launched our VM in Toronto,Canada then connected the VPN and landed in Tokyo, Japan.
+If you were following along, you saw that we started in the United States, launched our VM in Canada, then connected the VPN and landed in Tokyo, Japan.
 
 
 
