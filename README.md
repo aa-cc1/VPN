@@ -1,34 +1,29 @@
-#
 <p align="center">
 <img src="Proton VPN.png"/>
 </p>
 
-<h1>Virtual Private Network (VPN)</h1>
-In this project, we will setup our own VPN and observe its usage.
-
+<h1>Virtual Private Network (VPN) Setup and Usage</h1>
+In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP address from personal PC to inside the VM. 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [VPN (Virtual Private Network) Explained](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Proton VPN
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows 10 (22H2) PC
+- Windows 10 (xxx2) VM
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Observe IP address for physical PC
+- Observe IP address within VM
+- Observe IP address within VM (VPN connected)
 
 <h2>Actions and Observations</h2>
 
