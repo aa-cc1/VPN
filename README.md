@@ -26,11 +26,10 @@ In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP 
 
 <h2>Actions and Observations</h2>
 
-_⚠️Before we start, if you haven't already, go ahead and create a **Microsoft Azure** and **Proton VPN** account on your physical PC._
+_⚠️**Before we start, if you haven't already, go ahead and create a **Microsoft Azure** and **Proton VPN** account on your physical PC**._
 
 
-1️⃣
-First, we're going to create a VM in Azure running Windows 10 and select a region that is not our current (i.e. if you are in the US select Canada), then, in a new tab find our IP address (as it relates to country/region) by going to https://whatismyipaddress.com/ .
+1️⃣First, we're going to create a VM in Azure running Windows 10 and select a region that is not our current (i.e. if you are in the US select Canada), then, in a new tab find our IP address (as it relates to country/region) by going to https://whatismyipaddress.com/ .
 Locate **Remote Desktop** on your PC. We will use this to remote into our VM that we created earlier, by using the **Public IP** address. Do so now.
 
 
