@@ -30,7 +30,7 @@ _⚠️Before we start, if you haven't already, go ahead and create a **Microsof
 
 
 1️⃣
-First, we're going to create a VM in Azure running Windows 10, then, in a new tab find our IP address (as it relates to Country/Region) using https://whatismyipaddress.com/ .
+First, we're going to create a VM in Azure running Windows 10 and select a region that is not our current (i.e. if you are in the US select Canada), then, in a new tab find our IP address (as it relates to country/region) by going to https://whatismyipaddress.com/ .
 Locate **Remote Desktop** on your PC. We will use this to remote into our VM that we created earlier, by using the **Public IP** address. Do so now.
 
 
@@ -41,7 +41,13 @@ _Now the fun begins! Its great that you made it into the VM._
 Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login . Once logged in we are going to download the VPN Client for our operating system in use and begin installing it.
 
 
-3️⃣ 
+_Almost there._
+
+
+3️⃣ In the same browser, go to https://whatismyipaddress.com/ and observe your new IP address. What is the country/region?
+
+
+4️⃣ 
 
 
 
