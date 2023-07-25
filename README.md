@@ -25,10 +25,18 @@ In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP 
 - Observe IP address within VM (VPN connected)
 
 <h2>Actions and Observations</h2>
-After creating our Proton VPN account, we're going to login and download the VPN Client for the operating system in use. 
+Before we start, if you haven't already, go ahead and create a Microsoft Azure and Proton VPN account on your physical PC.
+
+First, we're going to create a VM in Azure running Windows 10, then, in a new tab find our IP address (as it relates to Country/Region).
+
+Since we have our Proton VPN account open, we're going to download the VPN Client for our operating system in use. Once it has downloaded, go ahead and begin the installation process.
+
+
+
+
 <p align="center"> <img src="VPN Clients.jpg"/> </p>
 <p>
-Once its been downloaded, go ahead and begin the installation process.
+New sentence here. Duhhhh...
 </p>
 <br />
 # new image here
@@ -36,7 +44,7 @@ Once its been downloaded, go ahead and begin the installation process.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+New Sentence here. Duhhhhh...
 </p>
 <br />
 
@@ -44,6 +52,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+New Sentence here. Duhhhhh...
 </p>
 <br />
