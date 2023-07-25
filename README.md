@@ -4,7 +4,7 @@
 
 <h1>Virtual Private Network (VPN) Setup and Usage</h1>
 In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP address from personal PC to inside the VM. 
-<h2>Video Demonstration</h2>
+<h2>Video Demonstration</h2> 
 
 - ### [VPN (Virtual Private Network) Explained](https://www.youtube.com)
 
