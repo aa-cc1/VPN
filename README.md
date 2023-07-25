@@ -25,11 +25,10 @@ In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP 
 - Observe IP address within VM (VPN connected)
 
 <h2>Actions and Observations</h2>
-
+After creating our Proton VPN account, we're going to login and download the VPN Client for the operating system in use. 
 <p align="center"> <img src="VPN Clients.jpg"/> </p>
 <p>
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once its been downloaded, go ahead and begin the installation process.
 </p>
 <br />
 # new image here
