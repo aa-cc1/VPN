@@ -7,7 +7,6 @@ In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP 
 <h2>Video Demonstration</h2> 
 
 - ### [VPN (Virtual Private Network) Explained](https://youtu.be/R-JUOpCgTZc)
-https://youtu.be/R-JUOpCgTZc
 
 <h2>Environments and Technologies Used</h2>
 
