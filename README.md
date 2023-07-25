@@ -21,13 +21,16 @@ In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP 
 <h2>High-Level Steps</h2>
 
 - Observe IP address for physical PC
-- Observe IP address within VM
+- Observe IP address within VM (VPN **NOT** connected)
 - Observe IP address within VM (VPN connected)
 
 <h2>Actions and Observations</h2>
-Before we start, if you haven't already, go ahead and create a Microsoft Azure and Proton VPN account on your physical PC.
+
+_Before we start, if you haven't already, go ahead and create a **Microsoft Azure** and **Proton VPN** account on your physical PC._
+
 
 First, we're going to create a VM in Azure running Windows 10, then, in a new tab find our IP address (as it relates to Country/Region).
+Locate **Remote Desktop** on your computer. We will use this to remote into our VM that we created earlier by using the **Public IP** address.
 
 Since we have our Proton VPN account open, we're going to download the VPN Client for our operating system in use. Once it has downloaded, go ahead and begin the installation process.
 
