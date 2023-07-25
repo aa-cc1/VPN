@@ -32,10 +32,10 @@ _⚠️Before we start, if you haven't already, go ahead and create **Microsoft 
 
 1️⃣First, we're going to create a VM in Azure running Windows 10 and select a region that is not our current (i.e. if you are in the US select Canada), then, in a new tab find our IP address (as it relates to country/region) by going to https://whatismyipaddress.com/ .
 <p align="center"> <img src="Create VM.1.png"/> </p>
-<p>
 
 
 Locate **Remote Desktop** on your PC. We will use this to remote into our VM that we created earlier, by using the **Public IP** address. Do so now.
+<p align="center"> <img src="RDP.png"/> </p>
 
 
 _Now the fun begins! Its great that you made it into the VM._
