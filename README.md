@@ -41,11 +41,9 @@ Locate **Remote Desktop** on your PC. We will use this to remote into our VM tha
 _Now the fun begins! Its great that you made it into the VM._
 
 
-2️⃣Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login . 
-<p align="center"> <img src="VPN Clients.jpg"/> </p>
-
-
+2️⃣Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login .
 Once logged in we are going to download the VPN Client for our operating system in use and begin the installation process and login.
+<p align="center"> <img src="VPN Clients.jpg"/> </p>
 <p> <p align="center"> <img src="Install Proton VPN.png"/> </p>
 
 
