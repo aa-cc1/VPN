@@ -44,13 +44,15 @@ Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ an
 _Almost there._
 
 
-3️⃣ In the same browser, go to https://whatismyipaddress.com/ and observe your new IP address. What is the country/region?
+3️⃣
+In the same browser, go to https://whatismyipaddress.com/ and observe your new IP address. What is the country/region?
 
 
 _The good stuff._
 
 
-4️⃣ Go back to your Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to https://whatismyipaddress.com/ and observe the IP address. Where are you now? 
+4️⃣
+Go back to your Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to https://whatismyipaddress.com/ and observe the IP address. Where are you now? 
 
 
 Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN. 
