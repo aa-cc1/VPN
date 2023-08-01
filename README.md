@@ -64,13 +64,5 @@ If you were following along, you saw that we started in the United States, launc
 
 
 
-  
-New sentence here. Duhhhh...
-</p>
-<br />
-# new image here
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <br />
