@@ -55,7 +55,7 @@ Open **Remote Desktop** on your PC and use the **Public IP** address from the VM
 
 
 **4.** Open the Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to [What Is My IP Address](https://whatismyipaddress.com/) and observe the IP address. Where are you now?  
-<p> <p align="center"> <img src="Insert Image Here"/> </p>
+<p> <p align="center"> <img src="IP 2.png"/> </p>
 
 
 Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN.  
