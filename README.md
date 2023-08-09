@@ -49,7 +49,7 @@ Open **Remote Desktop** on your PC and use the **Public IP** address from the VM
 
 
 **3.** In the same browser, go to [What Is My IP Address](https://whatismyipaddress.com/) and observe the new IP address. What is the country/region?  
-<p> <p align="center"> <img src="Insert Image Here"/> </p>
+<p> <p align="center"> <img src="IP 1.png"/> </p>
 
 
 
