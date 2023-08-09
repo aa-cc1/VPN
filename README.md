@@ -64,7 +64,7 @@ Open **Remote Desktop** on your PC and use the **Public IP** address from the VM
 
 #
 
-_If you were following along, you saw that we started in the United States, launched our VM in Canada, then connected the VPN and landed in Tokyo, Japan._
+_Two VPN connections were launched- one in Canada and the other in Tokyo, Japan. VPN's are great for being able to watch content/TV shows that are only available in another country._
 
 
 
