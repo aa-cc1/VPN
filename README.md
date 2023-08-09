@@ -15,11 +15,11 @@ A VPN allows you to have a secure connection between your computing device and a
 - Remote Desktop
 - Proton VPN
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System Used </h2>
 
 - Windows 10 (22H2)
 
-<h2>High-Level Steps</h2>
+<h2>Steps Taken</h2>
 
 - Observe IP address for physical PC
 - Observe IP address within VM (VPN **NOT** connected)
@@ -27,11 +27,11 @@ A VPN allows you to have a secure connection between your computing device and a
 
 <h2>Actions and Observations</h2>
 
-_⚠️Before we start, if you haven't already, go ahead and create a **Microsoft Azure and Proton VPN** account on your physical PC._
+_⚠️Before we start, if you haven't already, go ahead and create a **Microsoft Azure and Proton VPN** account on your PC._
 #
 
 
-1️⃣First, we're going to create a VM in Azure running Windows 10 and select a region that is not our current (i.e. if you are in the US select Canada), then, in a new tab find our IP address (as it relates to country/region) by going to https://whatismyipaddress.com/ .
+**1️.** Create a VM in Azure running Windows 10 and select a region that is not your current (e.g. if you are in the US select Canada), then, in a new tab find our IP address by going to [What Is My IP Address](https://whatismyipaddress.com/) .
 <p align="center"> <img src="Create VM.1.png"/> </p>
 
 
@@ -42,7 +42,7 @@ Locate **Remote Desktop** on your PC. We will use this to remote into our VM tha
 _Now the fun begins! Its great that you made it into the VM._
 
 
-2️⃣Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login .
+**2️.** Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login .
 Once logged in we are going to download the VPN Client for our operating system in use and begin the installation process and login.
 <p align="center"> <img src="VPN Clients.jpg"/> </p>
 <p> <p align="center"> <img src="Install Proton VPN.png"/> </p>
@@ -51,13 +51,13 @@ Once logged in we are going to download the VPN Client for our operating system 
 _Almost there._
 
 
-3️⃣In the same browser, go to https://whatismyipaddress.com/ and observe your new IP address. What is the country/region?
+**3.** In the same browser, go to https://whatismyipaddress.com/ and observe your new IP address. What is the country/region?
 
 
 _The good stuff._
 
 
-4️⃣ Go back to your Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to https://whatismyipaddress.com/ and observe the IP address. Where are you now? 
+**4.** Go back to your Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to https://whatismyipaddress.com/ and observe the IP address. Where are you now? 
 
 
 Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN. 
