@@ -2,7 +2,7 @@
 <img src="Proton VPN.png"/>
 </p>
 
-<h1>Virtual Private Network (VPN) Setup and Usage</h1>
+<h1>VPN Connections</h1>
 In this tutorial, Proton VPN will be used to show how a VPN function to an end-user. Observe the IP addresses from a personal PC to the network inside the VM. 
 <h2>What is a VPN? Who can use a VPN ? </h2>  
 A VPN allows you to have a secure connection between your computing device and a network. Anyone can use a VPN, however, its mostly seen in large organizations. In a sense, a VPN allows you to be anywhere in the world logically (from the comfort of your home or office). 
