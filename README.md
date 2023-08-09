@@ -3,10 +3,12 @@
 </p>
 
 <h1>Virtual Private Network (VPN) Setup and Usage</h1>
-In this tutorial, we setup a VPN using Proton VPN and observe the changes of IP addresses from a personal PC to inside the VM. 
-<h2>What is a VPN ? </h2> 
+In this tutorial, Proton VPN will be used to show how a VPN function to an end-user. Observe the IP addresses from a personal PC to the network inside the VM. 
+<h2>What is a VPN? Who can use a VPN ? </h2>  
+A VPN allows you to have a secure connection between your computing device and a network. Anyone can use a VPN, however, its mostly seen in large organizations. In a sense, a VPN allows you to be anywhere in the world logically (from the comfort of your home or office).
 
-- ### [VPN (Virtual Private Network) Explained](https://youtu.be/R-JUOpCgTZc)
+
+- ### [VPN Explained by Microsoft]([https://youtu.be/R-JUOpCgTZc](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn/#what-is-a-vpn))
 
 <h2>Environments and Technologies Used</h2>
 
