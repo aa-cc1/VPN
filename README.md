@@ -7,8 +7,7 @@ In this tutorial, Proton VPN will be used to show how a VPN function to an end-u
 <h2>What is a VPN? Who can use a VPN ? </h2>  
 A VPN allows you to have a secure connection between your computing device and a network. Anyone can use a VPN, however, its mostly seen in large organizations. In a sense, a VPN allows you to be anywhere in the world logically (from the comfort of your home or office). 
 
-
-- ### [VPN (explained by Microsoft)]([https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn/#what-is-a-vpn])
+- ### [VPN (explained by Microsoft)](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn/#types)
 
 <h2>Environments and Technologies Used</h2>
 
