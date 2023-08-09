@@ -58,7 +58,10 @@ Open **Remote Desktop** on your PC and use the **Public IP** address from the VM
 <p> <p align="center"> <img src="IP 2.png"/> </p>
 
 
-Take a few moments to try going to some of your favorite websites, like [Amazon, Netflix, or even Hulu while connected to the VPN.](https://drive.google.com/file/d/1YbZB8vcYDlR_-ZBWzpqnATwbs3AeQqbE/view?usp=drive_link)
+Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN.  
+<p> <p align="center"> <img src="Screenshot (125).png"/> </p>
+<p> <p align="center"> <img src="Screenshot (128).png"/> </p>
+
 #
 
 _If you were following along, you saw that we started in the United States, launched our VM in Canada, then connected the VPN and landed in Tokyo, Japan._
