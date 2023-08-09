@@ -31,33 +31,29 @@ _⚠️Before we start, if you haven't already, go ahead and create a **Microsof
 #
 
 
-**1️.** Create a VM in Azure running Windows 10 and select a region that is not your current (e.g. if you are in the US select Canada), then, in a new tab find our IP address by going to [What Is My IP Address](https://whatismyipaddress.com/) .
+**1️.** Create a VM in Azure running Windows 10 and select a region that is not your current (e.g. if you are in the US select Canada), then, in a new tab find our IP address by going to [What Is My IP Address](https://whatismyipaddress.com/) . Enter a username and password for the Administrator account. These credentials will be used for the Remote Desktop.
 <p align="center"> <img src="Create VM.1.png"/> </p>
 
 
-Locate **Remote Desktop** on your PC. We will use this to remote into our VM that we created earlier, by using the **Public IP** address. Do so now.
+Open **Remote Desktop** on your PC and use the **Public IP** address from the VM created alongside the username and password from the Administrator account to log in. 
 <p align="center"> <img src="RDP.png"/> </p>
 
 
-_Now the fun begins! Its great that you made it into the VM._
 
 
-**2️.** Now that we're inside the VM, open up a browser, go to https://protonvpn.com/ and login .
-Once logged in we are going to download the VPN Client for our operating system in use and begin the installation process and login.
+**2️.** Once inside open a browser, if you have a preference, say Google Chrome, you can install that too. Go to [ProtonVPN](https://protonvpn.com/) login, download the VPN Client for our operating system, and begin the installation process. 
 <p align="center"> <img src="VPN Clients.jpg"/> </p>
 <p> <p align="center"> <img src="Install Proton VPN.png"/> </p>
 
 
-_Almost there._
 
 
-**3.** In the same browser, go to https://whatismyipaddress.com/ and observe your new IP address. What is the country/region?
+**3.** In the same browser, go to [What Is My IP Address](https://whatismyipaddress.com/) and observe the new IP address. What is the country/region?
 
 
-_The good stuff._
 
 
-**4.** Go back to your Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to https://whatismyipaddress.com/ and observe the IP address. Where are you now? 
+**4.** Open the Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to https://whatismyipaddress.com/ and observe the IP address. Where are you now? 
 
 
 Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN. 
