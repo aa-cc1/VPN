@@ -48,16 +48,21 @@ Open **Remote Desktop** on your PC and use the **Public IP** address from the VM
 
 
 
-**3.** In the same browser, go to [What Is My IP Address](https://whatismyipaddress.com/) and observe the new IP address. What is the country/region?
+**3.** In the same browser, go to [What Is My IP Address](https://whatismyipaddress.com/) and observe the new IP address. What is the country/region?  
+<p> <p align="center"> <img src="Insert Image Here"/> </p>
 
 
 
 
-**4.** Open the Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to [What Is My IP Address](https://whatismyipaddress.com/) and observe the IP address. Where are you now? 
+**4.** Open the Proton VPN account and lets **connect** the VPN to place us in another location. There's a few options to choose from. Lastly, once connected go to [What Is My IP Address](https://whatismyipaddress.com/) and observe the IP address. Where are you now?  
+<p> <p align="center"> <img src="Insert Image Here"/> </p>
 
 
-Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN. 
-If you were following along, you saw that we started in the United States, launched our VM in Canada, then connected the VPN and landed in Tokyo, Japan.
+Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN.  
+<p> <p align="center"> <img src="Insert Image Here"/> </p>
+#
+
+_If you were following along, you saw that we started in the United States, launched our VM in Canada, then connected the VPN and landed in Tokyo, Japan._
 
 
 
