@@ -59,8 +59,8 @@ Open **Remote Desktop** on your PC and use the **Public IP** address from the VM
 
 
 Take a few moments to try going to some of your favorite websites, like Amazon, Netflix, or even Hulu while connected to the VPN.  
-<p> <p align="center"> <img src="Screenshot (125).png"/> </p>
 <p> <p align="center"> <img src="Screenshot (128).png"/> </p>
+<p> <p align="center"> <img src="Screenshot (125).png"/> </p>
 
 #
 
